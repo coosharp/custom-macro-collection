@@ -1,12 +1,7 @@
 /**
-  ******************************************************************************
-  *
-  * @file    macro_def.h
-  * @author  
-  * @brief   Header file of macro definition module.
-  *
-  ******************************************************************************
-  **/
+ * @file macro_def.h
+ *
+ */
   
 #ifndef _MACRO_DEF_H
 #define _MACRO_DEF_H
